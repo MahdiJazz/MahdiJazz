@@ -19,3 +19,8 @@ I'm a front-end developer on a never-ending journey of learning and growth.
 ![Webpack](https://img.shields.io/badge/-Webpack-8ED6FB?style=flat-square&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/-Babel-FDD835?style=flat-square&logo=babel&logoColor=white)
 
+## My Social: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdijazini/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jazini.edu@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mahdijazini)
+
