@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Hi+there+👋;I'm+Mahdi+Jazini!;Good+to+see+you!)
 
-# Hi there 👋, I'm Mahdi!
-
 ## About Me:
 I'm a front-end developer on a never-ending journey of learning and growth.
 
@@ -10,7 +8,6 @@ I'm a front-end developer on a never-ending journey of learning and growth.
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4500?style=flat-square&logo=react-query&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-FF6347?style=flat-square&logo=react-router&logoColor=white)
 ![Context API](https://img.shields.io/badge/-Context%20API-FF5722?style=flat-square&logo=react&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-FF4081?style=flat-square&logo=react&logoColor=white)
